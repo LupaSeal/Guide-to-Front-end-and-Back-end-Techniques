@@ -1,6 +1,9 @@
 # Guide-to-Front-end-and-Back-end-Techniques
 An Authoritative Guide to Building Modern Web Applications (css,b,sass,js,jquery,php,jinja,flask,ajax,json,react,html) with Advanced Techniques and Best Practices
 
+The Manual offers a thorough exploration of both front-end and back-end techniques essential for building contemporary web applications.
+
+This handbook draws upon my "pilgrimage" in the field, and employs insightful analogies and lucid explanations to simplify complex concepts, including a detailed examination of JavaScript's pivotal topics such as:
 
 - variables
 - arithmetic expressions 
